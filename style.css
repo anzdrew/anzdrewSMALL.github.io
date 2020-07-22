@@ -16,11 +16,11 @@ body{
 }
 
 h2,.white{
-    color: #e37b4b; /* was fff previously */
+    color: #101010; /* was fff previously */
 }
 
 a{
-    color: #7A7C80; 
+    color: #202020; /* was 7A7C80 previously */ 
     text-decoration: none;
 }
 /* section 1 */
