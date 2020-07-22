@@ -83,12 +83,14 @@ a{
     transition: 0.3s;
 }
 
+/*
 .white:hover{
     position: relative;
     padding-left: 10px;
 }
+*/
 
-/* media queres 
+/* media queres */
 @media(max-width:780px){
     .grid-2{
         grid-template-columns: 1fr;
@@ -102,4 +104,4 @@ a{
         padding-left: 1.5rem;
         padding-top: 2rem;
     }
-} */
+}
